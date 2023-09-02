@@ -3,3 +3,5 @@ I am home page
 changing in local
 
 adding a line in remote
+
+adding a new line in br1
