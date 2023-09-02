@@ -5,3 +5,5 @@ changing in local
 adding a line in remote
 
 adding a new line in br1
+
+adding a newline in feature1 branch
